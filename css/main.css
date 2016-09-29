@@ -1,0 +1,36 @@
+#seccion {
+	border-bottom: 2px solid rgb(252,250,252);
+	padding-bottom: 30px;
+	margin: 0 1%;
+}
+#area {
+	width: 100%;
+	border: 1px solid #E0E0E0;
+	resize: none;
+	margin: 1% 0;
+	height: 90px;
+}
+#boton {
+	display: block;
+
+}
+.parrafo {
+	width: 98%;
+	border-radius: 3px;
+	background-color: #E0E0E0;
+	padding: 10px;
+	margin: 1%;
+	word-wrap: break-word;
+}
+.tachado {
+	text-decoration: line-through;
+}
+#cabecera {
+	background-color:  #E0E0E0;
+	margin: 0px;
+	border-top: 1px solid #c4b6b6;
+	padding: 10px 0;
+}
+.nodoTexto {
+	padding-left: 10px;
+}
