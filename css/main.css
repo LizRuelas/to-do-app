@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
 #seccion {
 	border-bottom: 2px solid rgb(252,250,252);
 	padding-bottom: 30px;
